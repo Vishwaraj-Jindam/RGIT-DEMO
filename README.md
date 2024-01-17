@@ -1,2 +1,2 @@
 # RGIT-DEMO
-Author Vishwaraj Jindam
+Author Vishwaraj Jindam Rajiv Gandhi Institute of Technology
